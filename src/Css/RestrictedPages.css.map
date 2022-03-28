@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../Sass/global.scss","../Sass/RestrictedPages.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;EACA;EACA;;;AAqBJ;EACI,kBAjBS;;;ACTb;EACA;EACA;EAEA;EACA;EACA;EACA;EAEA,ODSiB;;;ACLjB;EAEI;EACA;EACA;EAEA;EACA;EAEA;EAEA,ODRe;ECUf,eDNmB;ECQnB;;;AAIJ;EACI;;;AAEJ;EACI;EACA,ODnBa","file":"RestrictedPages.css"}
